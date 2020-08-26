@@ -1,4 +1,4 @@
-<?php /* Template Name: MemberShipPage */
+<?php /* Template Name: MemberShipPage */ ?>
 
 &nbsp;
 <div id="pl-3414" class="panel-layout">
