@@ -1,3 +1,5 @@
+<?php /* Template Name: MemberShipPage*/ ?>
+
 <div id="pl-2668" class="panel-layout">
 <div id="pg-2668-0" class="panel-grid panel-has-style" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" data-ratio="1" data-ratio-direction="right">
 <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-2668-0" data-stretch-type="full">
