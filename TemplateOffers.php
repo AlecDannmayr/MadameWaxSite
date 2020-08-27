@@ -1,4 +1,6 @@
 
+<?php /* Template Name: MembershipPageOffer */ ?>
+
 <div id="pl-3451"  class="panel-layout" ><div id="pg-3451-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;cover&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-3451-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3451-0-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 
 </div></div></div></div></div><div id="pg-3451-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;cover&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-3451-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3451-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
