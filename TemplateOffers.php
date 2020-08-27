@@ -1,7 +1,5 @@
-<div id="pl-3451"  class="panel-layout" ><div id="pg-3451-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;cover&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div id="pgc-3451-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3451-0-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<p>We know you LOVE a good deal! That's why we've put together a collection of special offers for our lovely customers (including you).</p><p>So if you want to save £££s on your favourite wax and brow treatments, here's what we've got for you. <em>Ooh la la!</em><br /> <strong>P.S.</strong> Whilst your favourites are here to stay, we do shake up our deals from time to time. So remember to check back in at a later date to see what else we've got for you.</p></div>
-</div></div><div id="panel-3451-0-0-1" class="so-panel widget widget_sow-editor widgetopts-SO" data-index="1" data-style="{&quot;class&quot;:&quot;rounded purplegrad&quot;,&quot;widget_css&quot;:&quot;color:white;&quot;,&quot;padding&quot;:&quot;30px 30px 30px 30px&quot;,&quot;background&quot;:&quot;#ffffff&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="rounded purplegrad panel-widget-style panel-widget-style-for-3451-0-0-1" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<? /* Template Name: MemberShipOffersPage */ ?> 
+
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3><strong>20% off for besties</strong></h3>
 We <em>love</em> rewarding clients who spread the word about Madame Wax.
